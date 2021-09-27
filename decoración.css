@@ -1,0 +1,57 @@
+body {
+background-image: url(Imagenes/Veneee.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+background-color: black;
+
+}
+
+
+.flow{
+
+  border: 3px dashed tomato;}
+h1,h2,p,h3,ul,ol {color:white; }
+h1{text-decoration:underline; text-decoration:
+
+}
+.nuevo {display: flex;
+  justify-content: center;
+  align-items: center;
+  background: blue;
+  padding: 20px;
+
+}
+
+header {
+}
+
+nav img {
+
+
+}
+
+section {
+float:left;
+width: 48%;
+height: 2700px;
+overflow: auto;
+margin: 1%
+}
+
+aside {  width: 47%;
+float: left;
+height: 1000px;
+overflow: scroll;
+margin: 1%;
+border: 2px solid red;
+}
+
+footer{
+   clear:both;
+}
+
+
+
+}
